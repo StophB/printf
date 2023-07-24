@@ -1,5 +1,5 @@
-#ifndef _PRINTF_H_
-#define _PRINTF_H_
+#ifndef _PRINTF_H
+#define _PRINTF_H
 
 #include <stdarg.h>
 #include <stdio.h>
@@ -24,9 +24,7 @@
  * @unsign: flag if unsigned value
  *
  * @plus_flag: on if plus_flag specified
- *
  * @space_flag: on if hashtag_flag specified
- *
  * @hashtag_flag: on if _flag specified
  * @zero_flag: on if _flag specified
  * @minus_flag: on if _flag specified
