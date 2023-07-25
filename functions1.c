@@ -168,8 +168,6 @@
  *
  * @size: size specifier
  *
- * @size: size specn
- *
  * Return: number of characterss
  */
 
